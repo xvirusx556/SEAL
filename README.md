@@ -4,6 +4,8 @@
 
 [Adam Zweiger](https://adamzweiger.github.io/),
 [Jyothish Pari](https://jyopari.github.io),
+[Han Guo](https://han-guo.info/),
+[Ekin Akyürek](https://ekinakyurek.github.io/),
 [Yoon Kim](https://people.csail.mit.edu/yoonkim/),
 [Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/)
 
