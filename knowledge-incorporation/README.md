@@ -1,3 +1,5 @@
+# SEAL - knowledge-incorporation
+
 This is an implementation of SEAL for the *knowledge incorporation* setting, where the goal is to update or integrate new information from a passage into weights.
 
 ## Usage

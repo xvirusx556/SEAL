@@ -1,11 +1,7 @@
+# SEAL - few-shot
+
 This document contains the commands to reproduce the SEAL Few Shot Experiments on ARC. 
 Code is adopted from: [Ekin's Repo](https://github.com/ekinakyurek/marc/tree/main)
-
-## 🛠️ Environment Setup (Conda + pip)
-
-This project uses Python 3.10. To set up the environment and install dependencies, follow the steps below.
-
-# SEAL RL Experiments
 
 ## SEAL RL Iteration 1
 
