@@ -46,11 +46,11 @@ import zmq
 from peft import PeftModel
 from transformers import AutoModelForCausalLM, AutoTokenizer
 
-from src.utils import (
+from ..utils import (
     set_vllm_api_url,
     build_train_sequences,
 )
-from src.data_generation.make_squad_data import make_prompt
+from ..data_generation.make_squad_data import make_prompt
 
 # Silence transformers warning spam inside forked processes
 os.environ.setdefault("TRANSFORMERS_NO_ADVISORY_WARNINGS", "1")
@@ -109,7 +109,7 @@ def _spawn_inner_server(vllm_api: str, model: str, zmq_port: int, gpu: str, log_
     cmd = [
         sys.executable,
         "-m",
-        "src.inner.TTT_server",
+        "knowledge-incorporation.src.inner.TTT_server",
         "--vllm_api_url",
         vllm_api,
         "--model",
