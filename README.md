@@ -1,5 +1,14 @@
 # Self-Adapting Language Models
 
+[Paper](https://arxiv.org/abs/2506.10943), [Website](https://jyopari.github.io/posts/seal)
+
+[Adam Zweiger](https://adamzweiger.github.io/),
+[Jyothish Pari](https://jyopari.github.io),
+[Yoon Kim](https://people.csail.mit.edu/yoonkim/),
+[Pulkit Agrawal](https://people.csail.mit.edu/pulkitag/)
+
+MIT CSAIL
+
 <img src="few-shot/assets/SEAL.png" alt="SEAL" width="400"/>
 
 SEAL (**Se**lf-**A**dapting **L**LMs) is a framework for training language models via RL to generate self-edits (finetuning data and other update directives for themselves) in response to new inputs. 
