@@ -1,0 +1,11 @@
+{
+  "model": "models/iter1",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/eval/iter1_val.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 250,
+  "k": 5,
+  "timestamp": "2025-05-09T18:11:37.420003+00:00Z"
+}

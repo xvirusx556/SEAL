@@ -1,0 +1,7 @@
+{
+  "model": "",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/eval/naive_val.json.meta",
+  "n": 200,
+  "k": 0,
+}

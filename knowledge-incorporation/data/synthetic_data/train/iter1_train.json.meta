@@ -1,0 +1,11 @@
+{
+  "model": "models/sft_best1of5_iter0",
+  "dataset_in": "data/squad_train.json",
+  "dataset_out": "data/synthetic_data/train/iter1_train.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 50,
+  "k": 5,
+  "timestamp": "2025-05-09T18:17:57.353885+00:00Z"
+}

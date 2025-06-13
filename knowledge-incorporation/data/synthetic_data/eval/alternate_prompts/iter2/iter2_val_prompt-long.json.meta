@@ -1,0 +1,11 @@
+{
+  "model": "/home/adamz/orcd/pool/models/iter2_prompt-long",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/synthetic_data/eval/iter2_val_prompt-long.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 200,
+  "k": 5,
+  "timestamp": "2025-06-12T16:09:42.164422+00:00Z"
+}

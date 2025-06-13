@@ -1,0 +1,8 @@
+{
+  "model": "Qwen/Qwen2.5-7B",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/eval/gpt4_1_val.json",
+  "n": 200,
+  "k": 5,
+  "timestamp": "2025-05-11T03:07:14.916527+00:00Z"
+}

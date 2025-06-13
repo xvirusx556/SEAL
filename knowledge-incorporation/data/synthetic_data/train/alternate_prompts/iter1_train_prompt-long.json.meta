@@ -1,0 +1,11 @@
+{
+  "model": "models/iter1_prompt-long",
+  "dataset_in": "data/squad_train.json",
+  "dataset_out": "data/synthetic_data/train/iter1_train_prompt-long.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 50,
+  "k": 5,
+  "timestamp": "2025-06-11T15:40:53.267203+00:00Z"
+}

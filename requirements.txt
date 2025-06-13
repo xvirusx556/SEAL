@@ -1,0 +1,17 @@
+datasets
+ipdb
+torch
+transformers
+accelerate
+peft
+flashinfer-python
+rich
+vllm
+trl
+openai
+litellm
+pyzmq
+tqdm
+numpy
+scipy
+matplotlib

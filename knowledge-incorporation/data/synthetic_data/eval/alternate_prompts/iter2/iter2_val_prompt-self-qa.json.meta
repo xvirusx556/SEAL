@@ -1,0 +1,11 @@
+{
+  "model": "models/iter2_prompt-self-qa",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/synthetic_data/eval/iter2_val_prompt-self-qa.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 200,
+  "k": 5,
+  "timestamp": "2025-06-12T13:11:32.949314+00:00Z"
+}

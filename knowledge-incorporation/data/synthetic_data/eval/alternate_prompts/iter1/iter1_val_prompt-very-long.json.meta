@@ -1,0 +1,11 @@
+{
+  "model": "models/iter1_prompt-very-long",
+  "dataset_in": "data/squad_val.json",
+  "dataset_out": "data/synthetic_data/eval/iter1_val_prompt-very-long.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 200,
+  "k": 5,
+  "timestamp": "2025-06-11T00:35:20.642908+00:00Z"
+}

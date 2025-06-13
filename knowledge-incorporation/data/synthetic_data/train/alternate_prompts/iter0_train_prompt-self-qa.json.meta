@@ -1,0 +1,11 @@
+{
+  "model": "Qwen/Qwen2.5-7B",
+  "dataset_in": "data/squad_train.json",
+  "dataset_out": "data/synthetic_data/train/iter0_train_prompt-self-qa.json",
+  "temperature": 1.0,
+  "top_p": 0.95,
+  "max_tokens": 8192,
+  "n": 50,
+  "k": 5,
+  "timestamp": "2025-06-09T16:01:38.736976+00:00Z"
+}
